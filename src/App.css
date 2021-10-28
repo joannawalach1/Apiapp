@@ -1,0 +1,22 @@
+body {
+  background-color: red;;
+}
+
+.App {
+  background-color: yellow;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card {
+ background-color: white;
+ width: 300px;
+ height: 200px;
+ border: 1px solid red;
+ padding: 20px;
+}
